@@ -6,7 +6,7 @@ The control app for the AsciLab SUB121 Cube subwoofer, made by AsciLab. It talks
 
 - Mac: `AsciLab-SUB-Remote-<version>.dmg`.
 - Windows: `AsciLab-SUB-Remote-Setup-<version>.exe` — it installs the build that matches the PC (x64 or ARM64). If "Windows protected your PC" appears, click "More info" → "Run anyway".
-- Introduction: `AsciLab-SUB121-Cube-소개.pdf` (Korean).
+- Introduction: `AsciLab-SUB121-Cube-Introduction.pdf` (Korean), and firmware-update guide: `AsciLab-SUB-Remote-Firmware-Update.pdf`.
 
 A firmware update over the knob needs a USB driver on Windows: the installer puts it in on x64 PCs, and on ARM64 PCs the app and the read-me walk through it (the everyday control needs none). The app's Check for Updates… (Mac: the app menu; Windows: the ? menu) tells you when a new version is out; download it here.
 
@@ -22,7 +22,7 @@ AsciLab SUB121 Cube 서브우퍼를 컴퓨터에서 조작하는 앱입니다. A
 
 - Mac: `AsciLab-SUB-Remote-<버전>.dmg`
 - Windows: `AsciLab-SUB-Remote-Setup-<버전>.exe` — PC에 맞는 버전(x64 또는 ARM64)을 설치합니다. "Windows의 PC 보호" 창이 뜨면 "추가 정보" → "실행"을 누르세요.
-- 소개: `AsciLab-SUB121-Cube-소개.pdf`
+- 소개: `AsciLab-SUB121-Cube-Introduction.pdf`, 펌웨어 업데이트 방법: `AsciLab-SUB-Remote-Firmware-Update.pdf`
 
 노브로 펌웨어를 업데이트할 때는 Windows에서 USB 드라이버가 필요합니다(평소 조작에는 필요 없음). x64 PC는 설치 프로그램이 함께 설치하고, ARM64 PC는 앱과 설명서가 설치 방법을 안내합니다. 앱의 업데이트 확인…(Mac: 앱 메뉴, Windows: ? 메뉴)으로 새 버전을 알 수 있습니다. 새 버전이 나오면 여기서 내려받으세요.
 
@@ -30,4 +30,4 @@ AsciLab SUB121 Cube 서브우퍼를 컴퓨터에서 조작하는 앱입니다. A
 
 ---
 
-This repository holds the released installers only (attached to each release); the source code is not published here.
+This repository holds the released installers and documents only (attached to each release); the source code is not published here. The "Source code (zip/tar.gz)" that GitHub attaches to every release is an automatic archive of this repository — it contains only this README.
